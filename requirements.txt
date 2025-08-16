@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+python-telegram-bot
+requests
+scikit-learn
+tensorflow
+openai
+pydantic
+python-dotenv
+pandas
+matplotlib
+plotly
+aiohttp
